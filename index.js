@@ -7,7 +7,7 @@ function compare(number1, number2) {
   {
     return -1
   }
-  else if(number1 = number2)
+  else (number1 = number2)
   {
     return 0
   }
