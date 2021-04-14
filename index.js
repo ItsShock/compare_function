@@ -1,5 +1,16 @@
-function compare() {
-  // Zaimplementuj zadanie zgodnie z wytycznymi
+function compare(number1, number2) {
+  if(number1 > number2)
+  {
+    return 1
+  }
+  else if(number1 < number2)
+  {
+    return -1
+  }
+  else if(number1 = number2)
+  {
+    return 0
+  }
 };
 
 module.exports = compare;
