@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="4" failures="0" time="1.44">
-  <testsuite name="Funkcja compare" errors="0" failures="0" skipped="0" timestamp="2021-04-14T16:45:37" time="0.691" tests="4">
+<testsuites name="jest tests" tests="4" failures="0" time="1.361">
+  <testsuite name="Funkcja compare" errors="0" failures="0" skipped="0" timestamp="2021-04-15T15:51:36" time="0.645" tests="4">
     <testcase classname="Funkcja compare powinna zwracać liczbę" name="Funkcja compare powinna zwracać liczbę" time="0.002">
     </testcase>
     <testcase classname="Funkcja compare powinna zwracać 1 gdy pierwszy argument jest większy niż drugi" name="Funkcja compare powinna zwracać 1 gdy pierwszy argument jest większy niż drugi" time="0">
